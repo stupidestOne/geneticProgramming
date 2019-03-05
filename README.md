@@ -1,7 +1,8 @@
-# geneticProgramming
+# genetic programming
 A simple sample of genetic programming
 
-#Just a summary about the first assignment of AI. 
+#Just a summary about the first assignment of AI.
+
 I used genetic algorithm to achieve a simple TLU to solve the binary classification problem. The training set has 49 instances that each instance has 9 variables and 1 label named "training-set.csv".
 
 Generally, one genetic algorithm includes several parts: 
